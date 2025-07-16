@@ -1,3 +1,3 @@
 # NMR
-Interactive visualisations
+Interactive visualisations  
 Dr Euan D Doidge
